@@ -1,6 +1,6 @@
 # exercise
 
-Niconcio está desarrollando un juego en Java y su objetivo es crear un sistema donde cada usuario pueda acceder al juego de forma eficiente y segura, manteniendo un registro de las puntuaciones más altas. Para lograrlo, necesitan implementar el patrón Singleton para garantizar una única instancia de una clase que maneje el registro de puntuaciones. Además, el juego debe incluir parámetros esenciales, como el nombre del jugador, la puntuación obtenida y cualquier otra información relevante para el funcionamiento del juego.
+Nico está desarrollando un juego en Java y su objetivo es crear un sistema donde cada usuario pueda acceder al juego de forma eficiente y segura, manteniendo un registro de las puntuaciones más altas. Para lograrlo, necesitan implementar el patrón Singleton para garantizar una única instancia de una clase que maneje el registro de puntuaciones. Además, el juego debe incluir parámetros esenciales, como el nombre del jugador, la puntuación obtenida y cualquier otra información relevante para el funcionamiento del juego.
 
 # Autores
 
