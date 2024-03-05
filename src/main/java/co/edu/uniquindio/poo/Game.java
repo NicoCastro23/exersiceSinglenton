@@ -6,7 +6,7 @@ public class Game {
     public Game(String nombreJuego) {
         this.nombreJuego = nombreJuego;
     }
-
+    
     public void startGame() {
         System.out.println("inicia el juego");
     }
@@ -16,6 +16,10 @@ public class Game {
     }
 
     public void updateScore(Player player, int newScore) {
-        player.score = newScore;
+        player.setScore(newScore);
     }
-}
+
+    public String getNombreJuego() {
+        return nombreJuego;
+    }
+} 
