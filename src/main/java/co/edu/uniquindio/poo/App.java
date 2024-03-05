@@ -1,7 +1,7 @@
 package co.edu.uniquindio.poo;
 
 /**
- * Juan Nicolas Castro
+ *Juan Nicolas Castro
  *Juan Steban Acosta
  *Santiago Polania
  */

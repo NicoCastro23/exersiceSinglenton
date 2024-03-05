@@ -15,8 +15,8 @@ public class Game {
         System.out.println("termina el juego");
     }
 
-    public void updateScore(Player player, int newScore) {
-        player.setScore(newScore);
+    public synchronized void updateScore(Player player, int newScore) {
+        player.updateScore(newScore);
     }
 
     public String getNombreJuego() {

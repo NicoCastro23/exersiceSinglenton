@@ -15,14 +15,14 @@ public class Player {
         return name;
     }
     
-    public int getScore() {
+    public synchronized int getScore() {
         return score;
     }
     
     public String getOtherInfo() {
         return otherInfo;
     }
-    public void setScore(int score) {
+    public synchronized void updateScore(int score) {
         this.score = score;
     }
     
