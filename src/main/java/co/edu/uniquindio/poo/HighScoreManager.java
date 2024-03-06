@@ -4,6 +4,7 @@ public class HighScoreManager {
     private static HighScoreManager instance;
     private int highestScore;
 
+    //Constructor privado para evitar instancias fuera de la clase
     private HighScoreManager() {}
 
     public static HighScoreManager getInstance() {

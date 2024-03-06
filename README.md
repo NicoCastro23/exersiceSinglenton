@@ -6,7 +6,7 @@ Nico está desarrollando un juego en Java y su objetivo es crear un sistema dond
 
 - Juan Nicolas Castro juann.castroh@uqvirtual.edu.co
 - Santiago Polania  santiago.polaniap@uqvirtual.edu.co
-- Juan Steban Acosta juanns.acostar@uqvirtual.edu.co
+- Juan Steban Acosta juans.acostar@uqvirtual.edu.co
 
 # Herramientas
 

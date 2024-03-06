@@ -1,8 +1,10 @@
 package co.edu.uniquindio.poo;
 
 public class Game {
+    //Atributos
     private String nombreJuego;
 
+    //Constructor
     public Game(String nombreJuego) {
         this.nombreJuego = nombreJuego;
     }
